@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.main-box{
+.book-library{
 	box-shadow: rgba(0, 0, 0, 0.242) 0px 3px 7px;
 	width:85%;
 	display: block;
@@ -9,7 +9,7 @@
 body{
 	background-color:#f8f8f8;
 }
-.book-library{
+.div{
 	background-color:rgb(229, 228, 226);
 	padding:1px;
 }
@@ -33,7 +33,7 @@ p{
 	color:#777777;
 }
 button{
-	width:95%;
+	width:98%;
 	background-color:#2ecc71;
 	border:none;
 	border-radius:3px;
