@@ -32,10 +32,11 @@ h2, p, button{
 p{
 	color:#777777;
 }
-button{
+.price{
 	width:98%;
 	background-color:#2ecc71;
 	border:none;
+	text-align:center;
 	border-radius:3px;
 	padding:5px;
 	color:white;
