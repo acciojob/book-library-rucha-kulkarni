@@ -1,15 +1,45 @@
 /*  your css code here. If applicable */
 .main-box{
-	box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 8px;
+	box-shadow: rgba(0, 0, 0, 0.242) 0px 3px 7px;
+	width:85%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 body{
 	background-color:#f8f8f8;
 }
 .book-library{
-	background-color:#ffffff !;
+	background-color:rgb(229, 228, 226);
 	padding:1px;
 }
 .book{
+	margin-top:20px;
+	background-color:rgb(229, 228, 226);
+}
+.image{
+	width: 30%;
 	padding-top:10px;
-	background-color:#ffffff !;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h3, p, button{
+	margin:0px;
+	padding:0px 10px;
+}
+p{
+	color:#777777;
+}
+button{
+	width:95%;
+	background-color:#2ecc71;
+	border:none;
+	border-radius:3px;
+	padding:5px;
+	color:white;
+	font-size:12px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
