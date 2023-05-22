@@ -15,11 +15,12 @@ body{
 }
 .book{
 	margin-top:20px;
+	padding:15px 0px;
 	background-color:rgb(229, 228, 226);
 }
 .image{
 	width: 30%;
-	padding-top:10px;
+/* 	padding-top:10px; */
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
